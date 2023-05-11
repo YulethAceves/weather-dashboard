@@ -44,5 +44,5 @@ https://yulethaceves.github.io/weather-dashboard
 * OpenWeather API
 
 ## Contact
-[Kara Krzystan on GitHub](https://github.com/YulethAceves)
+[Yuleth Aceves on GitHub](https://github.com/YulethAceves)
 
